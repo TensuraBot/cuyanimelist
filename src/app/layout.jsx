@@ -5,8 +5,8 @@ import { Gabarito } from 'next/font/google'
 const gabarito = Gabarito({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'CuyAnimeList',
-  description: 'Website Anime Indonesia',
+  title: 'HanAnimelist',
+  description: 'Anime Site gabutan by H4N',
 }
 
 export default function RootLayout({ children }) {
